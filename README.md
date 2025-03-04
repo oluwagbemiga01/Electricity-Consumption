@@ -38,3 +38,5 @@ Date: 27th of February, 2025
   ---
   4. ## Key Metrics & Dax Measures
        - 📌 Total Electricity Consumption
+
+     ![](https://github.com/oluwagbemiga01/Electricity-Consumption/blob/main/Image/total%20consumption.png)
