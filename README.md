@@ -37,6 +37,18 @@ Date: 27th of February, 2025
     
   ---
   4. ## Key Metrics & Dax Measures
-       - 📌 Total Electricity Consumption
+       - 📌 **Total Electricity Consumption**
 
      ![](https://github.com/oluwagbemiga01/Electricity-Consumption/blob/main/Image/total%20consumption.png)
+     
+     - 🔝 **Peak Consumption Hour**
+     
+![](https://github.com/oluwagbemiga01/Electricity-Consumption/blob/main/Image/peak%20consumption%20hour.png)
+
+---
+
+5. ## Key Insights & Findings
+
+  **Peak Consumption Analysis**
+  - The highest electricity consumption occurs at **7PM**, this is indicating there is increase in usage in the evening.
+  - On **Mondays**, peak consumption occurs at **5AM**, this might be due to the fact that businesses, industries, and households are starting the week afresh with high energy. 
