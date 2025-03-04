@@ -7,6 +7,8 @@ Date: 27th of February, 2025
 - Power BI
 - DAX 
 - Power Query
+  
+Interact with the Dashboard [here](https://app.powerbi.com/groups/me/reports/b531e69b-6910-4c0a-b089-fab77ca8507a/4a5a1197b06b70a789ad?experience=power-bi)
 
 ---
 1. ## Project Overview
