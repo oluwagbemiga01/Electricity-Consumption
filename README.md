@@ -3,7 +3,7 @@ Date: 27th of February, 2025
 
 **Tools Used**:
 - Power BI
-- DAX
+- DAX 
 - Power Query
 
 ---
@@ -13,6 +13,7 @@ Date: 27th of February, 2025
         - Real Consumption
         - Predicted Consumption
         - Time
+ 
    - The key objectives include:
      
           1. Identifying peak consumption hours 🕒  
@@ -35,5 +36,5 @@ Date: 27th of February, 2025
       - I also extracted additional time-related features (Hour, Day, Month, AM/PM format).
     
   ---
-  4. ## Dax Measures
-       - Total Electricity Consumption
+  4. ## Key Metrics & Dax Measures
+       - 📌 Total Electricity Consumption
