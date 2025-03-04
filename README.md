@@ -1,4 +1,4 @@
-![](https://github.com/oluwagbemiga01/Electricity-Consumption/blob/main/Image/bulb.webp)
+![](https://github.com/oluwagbemiga01/Electricity-Consumption/blob/main/Image/lightbulb.jpeg)
 
 # Electricity Consumption Analysis 💡
 Date: 27th of February, 2025
