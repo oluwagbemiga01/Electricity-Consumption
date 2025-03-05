@@ -64,3 +64,20 @@ Interact with the Dashboard [here](https://app.powerbi.com/groups/me/reports/b53
 ---
 
 6. ## Dashboard Overview
+
+   ![](https://github.com/oluwagbemiga01/Electricity-Consumption-Report/blob/main/Image/Dashboard%20overview.png)
+
+---
+
+7. ## Business Recommendations 💡
+   - Optimize energy supply during peak hours (7 PM)
+   - Encourage off-peak usage to reduce strain on the grid
+---
+
+8. ## Author & Contact
+
+👦 Oluwagbemiga Agbeje
+
+📧[mail address](gbemiga100@gmail.com)
+
+[linkedln page](https://www.linkedin.com/in/oluwagbemiga-agbeje/)
