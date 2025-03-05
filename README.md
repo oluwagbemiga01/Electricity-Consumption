@@ -57,4 +57,4 @@ Interact with the Dashboard [here](https://app.powerbi.com/groups/me/reports/b53
   - The highest electricity consumption occurs at **7PM**, this is indicating there is increase in usage in the evening.
   - On **Mondays**, peak consumption occurs at **5AM**, this might be due to the fact that businesses, industries, and households are starting the week afresh with high energy. 
 
-|  
+|  ![Monday Peak Hours](https://github.com/oluwagbemiga01/Electricity-Consumption-Report/blob/main/Image/Mondays%20Peak%20Hour.png)  |
